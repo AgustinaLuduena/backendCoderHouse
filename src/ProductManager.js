@@ -1,6 +1,6 @@
 import fs from "fs";
 
-class ProductManager{
+export default class ProductManager{
     constructor(){
         this.path = "./products.json";
         this.products = [];
@@ -106,19 +106,24 @@ class ProductManager{
     
 }
 
-const eventManager = new ProductManager()
+//const eventManager = new ProductManager()
 
 //Empty array
     //eventManager.getProducts()
 
 //Add products ok
   /*
-  eventManager.addProduct("Pencil", "Red color pencil", 200, 100, 15)
-  eventManager.addProduct("Pencil", "Blue color pencil", 200, 101, 15)
-  eventManager.addProduct("Pen", "Green color pen", 300, 102,50)
-  eventManager.addProduct("Pencil", "Red color pencil", 200, 103, 15)
-  eventManager.addProduct("Pencil", "Blue color pencil", 200, 104, 15)
-  eventManager.addProduct("Pen", "Green color pen", 300, 105,50)
+  eventManager.addProduct("Pencil", "Red color pencil", 200, 100, 20)
+  eventManager.addProduct("Pencil", "Blue color pencil", 200, 101, 20)
+  eventManager.addProduct("Pencil", "Yellow color pencil", 200, 102, 20)
+  eventManager.addProduct("Pencil", "Green color pencil", 200, 103, 15)
+  eventManager.addProduct("Pencil", "Orange color pencil", 200, 104, 15)
+  eventManager.addProduct("Pencil", "Purple color pencil", 200, 105, 15)
+  eventManager.addProduct("Pen", "Red color pen", 200, 106, 15)
+  eventManager.addProduct("Pen", "Blue color pen", 200, 107, 30)
+  eventManager.addProduct("Pen", "Green color pen", 200, 108, 15)
+  eventManager.addProduct("Pen", "Purple color pen", 200, 109, 15)
+  eventManager.addProduct("Pen", "Black color pen", 200, 110, 30)
   */
 
 //Add products wrong

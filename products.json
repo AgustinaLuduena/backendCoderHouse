@@ -1,1 +1,101 @@
-[]
+[
+  {
+    "id": 1,
+    "title": "Pencil",
+    "description": "Red color pencil",
+    "price": 200,
+    "code": 100,
+    "stock": 20,
+    "thumbnail": "Not available"
+  },
+  {
+    "id": 2,
+    "title": "Pencil",
+    "description": "Blue color pencil",
+    "price": 200,
+    "code": 101,
+    "stock": 20,
+    "thumbnail": "Not available"
+  },
+  {
+    "id": 3,
+    "title": "Pencil",
+    "description": "Yellow color pencil",
+    "price": 200,
+    "code": 102,
+    "stock": 20,
+    "thumbnail": "Not available"
+  },
+  {
+    "id": 4,
+    "title": "Pencil",
+    "description": "Green color pencil",
+    "price": 200,
+    "code": 103,
+    "stock": 15,
+    "thumbnail": "Not available"
+  },
+  {
+    "id": 5,
+    "title": "Pencil",
+    "description": "Orange color pencil",
+    "price": 200,
+    "code": 104,
+    "stock": 15,
+    "thumbnail": "Not available"
+  },
+  {
+    "id": 6,
+    "title": "Pencil",
+    "description": "Purple color pencil",
+    "price": 200,
+    "code": 105,
+    "stock": 15,
+    "thumbnail": "Not available"
+  },
+  {
+    "id": 7,
+    "title": "Pen",
+    "description": "Red color pen",
+    "price": 200,
+    "code": 106,
+    "stock": 15,
+    "thumbnail": "Not available"
+  },
+  {
+    "id": 8,
+    "title": "Pen",
+    "description": "Blue color pen",
+    "price": 200,
+    "code": 107,
+    "stock": 30,
+    "thumbnail": "Not available"
+  },
+  {
+    "id": 9,
+    "title": "Pen",
+    "description": "Green color pen",
+    "price": 200,
+    "code": 108,
+    "stock": 15,
+    "thumbnail": "Not available"
+  },
+  {
+    "id": 10,
+    "title": "Pen",
+    "description": "Purple color pen",
+    "price": 200,
+    "code": 109,
+    "stock": 15,
+    "thumbnail": "Not available"
+  },
+  {
+    "id": 11,
+    "title": "Pen",
+    "description": "Black color pen",
+    "price": 200,
+    "code": 110,
+    "stock": 30,
+    "thumbnail": "Not available"
+  }
+]
